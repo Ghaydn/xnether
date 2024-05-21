@@ -44,7 +44,7 @@ minetest.register_abm({
 			collision_removal = false,
 			object_collision = false,
 			vertical = true,
-			texture = "nether_particle.png"--.."^[colorizehsl:"..color
+			texture = "nether_particle.png",--.."^[colorizehsl:"..color,
 			glow = 4,
 		})
 	end
