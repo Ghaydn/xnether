@@ -6,6 +6,8 @@ Trees and grass won't burn; though, grass can be destroyed by liquids, like lava
 Tree parts (wood, leaves) can be used in default crafts - fences, meseposts. 
 Fruit is eatable (damages on eat).
 
+Do not use with HybridDog's Nether.
+
 
 # Copyright and licensing
 
