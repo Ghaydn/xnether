@@ -1,0 +1,35 @@
+# textdomain: xnether
+
+
+### trees.lua ###
+
+Purple Tree Sapling=Росток пурпурного дерева
+Blue Tree Sapling=Росток синего дерева
+Purple Tree=Пурпурное дерево
+Blue Tree=Синее дерево
+Purple Wood Planks=Доски пурпурного дерева
+Blue Wood Planks=Доски синего дерева
+Purple Tree Leaves=Листья пурпурного дерева
+Blue Tree Leaves=Листья синего дерева
+Nether Fruit=Адский фрукт
+Purple Wood Fence=Забор из пурпурного дерева
+Blue Wood Fence=Забор из синего дерева
+Purple Wood Fence Rail=Реечный забор из пурпурного дерева
+Blue Wood Fence Rail=Реечный забор из синего дерева
+Purple Wood Mese Post Light=Фонарь из пурпурного дерева
+Blue Wood Mese Post Light=Фонарь из синего дерева
+
+
+### grass.lua ###
+
+Purple Nether Grass=Пурпурная адская трава
+Blue Nether Grass=Синяя адская трава
+Purple Nether Flower=Пурпурный адский цветок
+Blue Nether Flower=Синий адский цветок
+
+### ores.lua ###
+
+Nether Gold=Адское золото
+Nether Mese=Адское месе
+
+

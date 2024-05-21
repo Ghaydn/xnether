@@ -1,0 +1,36 @@
+# textdomain: xnether
+
+
+### trees.lua ###
+
+Purple Tree Sapling
+Blue Tree Sapling
+Purple Tree
+Blue Tree
+Purple Wood Planks
+Blue Wood Planks
+Purple Tree Leaves
+Blue Tree Leaves
+Nether Fruit
+Purple Wood Fence
+Blue Wood Fence
+Purple Wood Fence Rail
+Blue Wood Fence Rail
+Purple Wood Mese Post Light
+Blue Wood Mese Post Light
+
+
+
+### grass.lua ###
+
+Purple Nether Grass
+Blue Nether Grass
+Purple Nether Flower
+Blue Nether Flower
+
+### ores.lua ###
+
+Nether Gold
+Nether Mese
+
+

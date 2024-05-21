@@ -1,0 +1,3 @@
+# Disabling fireflies may increase FPS
+xnether_enable_fireflies (Enable firefly particles) bool true
+
