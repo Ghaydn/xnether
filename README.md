@@ -5,6 +5,7 @@ decorative mod that makes nether less desert-like.
 Trees and grass won't burn; though, grass can be destroyed by liquids, like lava.
 Tree parts (wood, leaves) can be used in default crafts - fences, meseposts. 
 Fruit is eatable (damages on eat).
+And also this mod adds ores: gold and mese in netherrack.
 
 Do not use with HybridDog's Nether.
 
