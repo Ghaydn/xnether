@@ -14,7 +14,7 @@ Do not use with HybridDog's Nether.
 
 License for all code: AGPL 3.0
 
-License for all media and all other assets:  CC-BY-SA 4.0
+License for all media and all other assets:  CC-BY-SA 3.0
 
 © 2024, Nikita Egorov <ghaydn@mail.ru> and others
 
