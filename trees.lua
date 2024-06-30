@@ -50,17 +50,17 @@ end
 
 -- called by sapling's timer
 local function grow_tree(pos, tree, offset)
-	if not can_grow(pos) then
+	if not can_grow(pos, tree) then
 		-- try a bit later again
 		minetest.get_node_timer(pos):start(math.random(240, 600))
 		return
 	end
-	if not nether.trees[tree] then return end
+	if not xnether.trees[tree] then return end
 	local num = math.random(3)
 	minetest.remove_node(pos)
 	minetest.place_schematic(
 		{x = pos.x - offset, y = pos.y - 1, z = pos.z - offset}, -- position
-		nether.trees[tree][num], -- tree scheme
+		xnether.trees[tree][num], -- tree scheme
 		0,	-- rotation (trees are symmetrical)
 		nil,
 		false
